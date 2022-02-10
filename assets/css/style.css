@@ -124,16 +124,25 @@ h2 {
     left: 0;
     right: 0;
     overflow: hidden;
-    height: 63px !important;
+    /* height: 63px !important; */
 }
 
-.nav-container .logo {
-    background-image: url(../images/logo1.png);
+/* #logo{
+    background-image: url(../images/logo2.png);
     width: 112px;
     height: 15px;
     margin-top: 45px;
     margin-left: 30px;
-}
+} */
+
+
+ .nav-container .logo {
+    background-image: url(../images/logo4.png);
+    width: 162px;
+    height: 35px;
+    margin-top: 45px;
+    margin-left: 30px;
+} 
 
 .button-container {
     position: relative;
